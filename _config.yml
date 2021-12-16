@@ -2,3 +2,5 @@ title: Ellie Watkins
 logo: /assets/img/logo.png
 description: I sing for fun
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
